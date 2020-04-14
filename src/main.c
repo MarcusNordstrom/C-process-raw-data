@@ -25,7 +25,7 @@ SOFTWARE.
 #include <stdint.h>
 #include <stdlib.h>
 #include <string.h>
-#define PATH "/home/mackan240/Documents/C-process-raw-data/data/150_step_outdoor_byteswap.txt"
+#define PATH "INSERT PATH HERE"
 
 static int16_t swap_int16( int16_t val ) 
 {
